@@ -1,6 +1,6 @@
 # prework
 
-![tipcalc](https://user-images.githubusercontent.com/86577213/152630513-716919fb-f9d2-4935-afde-33f3ecd11857.gif)
+![tipcalc](https://user-images.githubusercontent.com/86577213/152658800-feeaf7d8-fdfc-4ecc-8126-d863d229a09f.gif)
 
 
 # Pre-work - *Tip Calculator*
